@@ -58,7 +58,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:qwp20060309@outlook.com)
 
 ## ✍️ 技术博客
-[![Medium](https://www.miyoushe.com/dby/accountCenter/postList?id=194364049)](博客链接)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([博客链接](https://www.miyoushe.com/dby/accountCenter/postList?id=194364049))
 最新文章：
 - 《C/C++基础》
 - 《Redis入门到入土》
