@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [RobinElysia]
+# Hi there 👋 I'm RobinElysia
 
 <!-- 顶部动态横幅 -->
 <div align="center">
