@@ -38,8 +38,10 @@
   <a href="https://github.com/yourusername">
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%">
   </a>
+</div>
+<div>
   <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="49%">
   </a>
 </div>
 
