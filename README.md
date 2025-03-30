@@ -45,10 +45,6 @@
 
 **全栈开发者 | 云原生技术探索者 | 开源爱好者**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername)](https://github.com/yourusername)
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-
 ## 🛠 技术栈雷达
 
 ### 后端开发
