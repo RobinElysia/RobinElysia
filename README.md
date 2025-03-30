@@ -70,7 +70,7 @@
 ```mermaid
 graph TD
     H[Backend] --> G(Spring&Django)
-    F[Spring&Dajango] --> A(Spring)
+    G[Spring&Dajango] --> A(Spring)
     G --> B(SpringMVC)
     G --> C(SpringBoot)
     G --> D(SpringCloud)
