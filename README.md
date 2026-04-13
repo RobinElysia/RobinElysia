@@ -35,6 +35,9 @@
 
 **全栈开发者 | 云原生技术探索者 | 开源爱好者**
 > "Talk is cheap. Show me the code." - Linus Torvalds
+
+> 求国内实习，期望薪资 8k ~ 12k
+
 <!-- 技术架构图 -->
 ## 🛠️ Tech Stack
 ```mermaid
